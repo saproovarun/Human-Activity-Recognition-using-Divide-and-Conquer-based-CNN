@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-using-Divide-and-Conquer-based-CNN
